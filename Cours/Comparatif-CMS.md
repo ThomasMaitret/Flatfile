@@ -1,9 +1,9 @@
-#définition de CMS 
+#Définition d'un CMS 
 
 CMS sygnifie : content management system. C'est un système de gestion de contenu dynamique et simplifié.
 Les CMS s'appliquent à des domaines d'applications différents : Le gestion de contenu web, les publications de blog et les réseaux sociaux. 
 
-##exmples de CMS :
+##Exemples de CMS :
 WordPress : moteur de blog (boite)  
 TYPO3 (cms entreprise, dev de plugin), Joomla!, Drupal 7/8, EzPublish : CMS fonctionnalités poussés pour la réalisation de sites (boite)  
 Magento , Prestashop : e-commerce (boite)
@@ -17,7 +17,7 @@ Les CMS open source sont les seuls à être restés car ils sont été gérés p
 Les open source se développent plus vite que les propriétaires. 
 
 
-#tableau comparatif de CMS
+#Tableau comparatif de CMS
 
  |  WordPress    |      TYPO03     |   Joomla!      |
  | :-------------: |: -------------: | :---------:    |
