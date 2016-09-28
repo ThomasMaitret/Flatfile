@@ -1,2 +1,1 @@
-#Comparatif des différents CMS
 
