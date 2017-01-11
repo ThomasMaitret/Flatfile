@@ -1,5 +1,6 @@
 ---
 title: Equipe
+position: 1
 layout: default
 ordre: 3
 ---

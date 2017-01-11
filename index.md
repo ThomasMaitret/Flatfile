@@ -1,5 +1,6 @@
 ---
 title: Accueil
+position: 0
 layout: default
 ordre: 1
 ---
