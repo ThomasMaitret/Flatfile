@@ -1,5 +1,7 @@
 ---
 title: Site Jekyll
+snipcart_api_key: 
+url: 
 timezone: UTC
 collections:
   posts:
@@ -28,5 +30,3 @@ defaults:
     type: pages
   values:
     layout: page
-snipcart_api_key: snipcart_api_key
-url: url
