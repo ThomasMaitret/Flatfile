@@ -1,6 +1,6 @@
 ---
-layout: about
 title: A propos
+layout: about
 ordre: 2
 ---
 

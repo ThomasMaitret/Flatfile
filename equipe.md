@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Equipe
+layout: default
 ordre: 3
 ---
 

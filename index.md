@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Accueil
+layout: default
 ordre: 1
 ---
 

@@ -1,4 +1,13 @@
-title: "Site Jekyll"
+---
+title: Site Jekyll
+timezone: UTC
 collections:
-- cours
-
+  cours:
+    title: Cours
+    output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
