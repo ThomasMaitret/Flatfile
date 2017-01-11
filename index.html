@@ -1,23 +1,8 @@
 ---
+title: Store
+layout: products
 ---
 
-<html>
-<head>
-<title>{{site.title}}</title>
-<link rel="icon" href="http://jolies-couleurs.net16.net/favicon.png" />
-</head>
-
-<body>
-    <nav style="background:#eee;text-align:center;padding:5px;position:fixed;top:0px;left:0px;width:100%;">
-        <h1>Github Pages</h1>
-        <h3>Documentation</h3>
-    </nav>
-
-    
-
-    
-    <footer style="background:#eee;width:100%;position:fixed;bottom:0px;left:0px;text-align:center;">
-        <p>Copyright 2016</p>
-    </footer>
-</body>
-</html>
+{% for product in site.products %}
+  {% include product.html %}
+{% endfor %}
