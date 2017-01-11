@@ -16,8 +16,7 @@ defaults:
     path: ''
     type: products
   values:
-    layout: product
-    permalink: "/products/:title/"
+    layout: productdetails
     name: ''
     price: 0.0
     sku: ''
