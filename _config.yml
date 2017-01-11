@@ -1,10 +1,4 @@
----
-title: Site Github Pages
-timezone: UTC
+title: "Site Jekyll"
 collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+- cours
+

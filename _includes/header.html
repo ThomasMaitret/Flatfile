@@ -1,0 +1,8 @@
+<nav>
+    <ul>
+        {% assign navigation_pages = site.html_pages | sort: 'ordre' %}
+        {% for page in navigation_pages %}
+                <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>
