@@ -1,6 +1,7 @@
 ---
 title: SweetCake
 timezone: UTC
+url: sweetcake.siteleaf.net 
 collections:
   posts:
     title: Posts
