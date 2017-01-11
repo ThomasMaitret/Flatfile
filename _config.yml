@@ -1,5 +1,5 @@
 ---
-title: SweetCake
+title: Site Jekyll
 timezone: UTC
 collections:
   posts:
@@ -28,6 +28,5 @@ defaults:
     type: pages
   values:
     layout: page
-url: https://snipcart.github.io/snipcart-jamstack
-snipcart_api_key: ''
-permalink: pretty
+snipcart_api_key: snipcart_api_key
+url: url
