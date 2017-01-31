@@ -141,6 +141,9 @@ button {
   .articles img {
     height: 290px;
   }
+  .main-flexslider h1 {
+    font-size: 70px;
+  }
 }
 
 @media (max-width: 769px) {
