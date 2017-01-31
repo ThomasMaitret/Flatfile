@@ -31,21 +31,11 @@ main {
 	top: 70px;
 	padding: 10px;
 }
-.products {
-	width: 100%;
-}
-.product {
-	display: inline-block;
-}
-.product img {
-	width: 200px;
-}
-.product p {
-	text-align: center
-}
-.product button {
-	display: block;
-	margin: auto;
+button {
+	outline: none;
+	border:0;
+	padding: 7px 10px 7px 10px;
+	background: #eee;
 }
 
 /********************************** Slider ********************************/
