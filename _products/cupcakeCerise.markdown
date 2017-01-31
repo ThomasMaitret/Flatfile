@@ -5,6 +5,5 @@ name: Cupcake Cerise
 price: 4
 image: https://littlecupcakes.com.au/wp-content/uploads/2015/05/Red-Velvet.png
 weight: 4
-id: 1
 ---
 
