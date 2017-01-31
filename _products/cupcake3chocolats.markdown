@@ -6,7 +6,7 @@ tags:
 name: Cupcake 3 chocolats
 price: 5
 sku: 2
-image: https://www.atelierdeschefs.com/media/recette-e20850-cupcake-cafe-praline-et-noisette.jpg
+image: "/uploads/cupcake-3-chocolats.jpg"
 weight: 5
 ---
 
