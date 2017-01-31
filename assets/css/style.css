@@ -55,11 +55,15 @@ button {
     font-size: 100px;
     font-weight: normal;
 
+    margin: 0 auto;
+	
     position: absolute;
-    top: 40%;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
 
     width: 100%;
-    margin: 0 auto;
 
     text-align: center;
 
