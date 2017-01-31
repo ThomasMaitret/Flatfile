@@ -141,6 +141,6 @@ button {
 
 @media (max-width: 769px) {
   .articles img {
-    height: 600px;
+    height: 100%;
   }
 }
