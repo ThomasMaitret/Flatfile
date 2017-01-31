@@ -1,5 +1,5 @@
 <div class="col-md-3 col-sm-6">
-    <img src="{{ product.image }}" alt="{{ product.name }}">
+    <img src="{{ site.url }}{{ product.image }}" alt="{{ product.name }}">
     <div class="text">
         <a href="{{ site.url }}{{ product.url }}">
           <span>{{ product.name }}</span>
@@ -10,7 +10,7 @@
         <button class="snipcart-add-item"
           data-item-name="{{ product.name }}"
           data-item-id="{{ product.sku }}"
-          data-item-image="{{ product.image }}"
+          data-item-image="{{ site.url }}{{ product.image }}"
           data-item-url="{{ site.url }}{{product.url }}"
           data-item-price="{{ product.price }}">
           Acheter
