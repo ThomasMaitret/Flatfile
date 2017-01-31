@@ -8,11 +8,6 @@ head: snipcart.html
   <div class="product-description">
     <p>{{ page.name }}</p>
 
-
-    <div>
-      {% include rating.html %}
-    </div>
-
     <p>{{ page.content }}</p>
 
     <button class="snipcart-add-item"
@@ -21,7 +16,7 @@ head: snipcart.html
       data-item-image="{{ page.image }}"
       data-item-url="{{ site.url }}{{ page.url }}"
       data-item-price="{{ page.price }}">
-      Buy it for {{ page.price }} $
+      Buy it for {{ page.price }} Ƀ
     </button>
   </div>
 </div>
