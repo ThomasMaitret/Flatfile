@@ -7,6 +7,5 @@ name: Cupcake 3 chocolats
 price: '5,99'
 sku: 2
 image: "/uploads/cupcake-3-chocolats.jpg"
-weight: 5
 ---
 
