@@ -4,7 +4,7 @@ date: 2017-01-11 10:00:00 Z
 name: Cupcake Cerise
 price: 4
 sku: 1
-image: https://littlecupcakes.com.au/wp-content/uploads/2015/05/Red-Velvet.png
+image: https://www.atelierdeschefs.com/media/recette-e20850-cupcake-cafe-praline-et-noisette.jpg
 weight: 4
 ---
 
