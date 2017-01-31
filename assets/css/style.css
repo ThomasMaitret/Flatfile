@@ -13,6 +13,10 @@
 	src: url(../fonts/OpenSans-Bold.ttf);
 	font-weight: bold;
 }
+@font-face {
+	font-family: lobster;
+	src: url(../fonts/Lobster-Regular.ttf);
+}
 * {
 	font-family: opensans;
 	font-weight: normal;
