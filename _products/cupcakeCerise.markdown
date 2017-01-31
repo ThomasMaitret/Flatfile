@@ -1,10 +1,10 @@
 ---
-title: Cupcake Cerise
+title: Cupcake fruits rouges
 date: 2017-01-11 10:00:00 Z
-name: Cupcake Cerise
-price: 4
+name: Cupcake fruits rouge
+price: '4,99'
 sku: 1
-image: https://www.atelierdeschefs.com/media/recette-e20850-cupcake-cafe-praline-et-noisette.jpg
+image: "/uploads/cupcake-fruits-rouges.jpg"
 weight: 4
 ---
 
