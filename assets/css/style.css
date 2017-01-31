@@ -19,54 +19,13 @@
 }
 body {
 	background: url(../img/geometry2.png);
-}
-nav {
-	position: fixed;
-	z-index: 999;
-	top: 0;
-	left: 0;
-	background: rgba(220, 220, 220, 0.5);
-	width: 100%;
-	text-align: center;
-}
-ul {
-	list-style-type: none;
-	height: 23px;
-}
-nav ul li {
-	display: inline;
-}
-nav ul li a {
-	text-decoration: none;
-	color: black;
-	text-align: center;
-	padding: 10px;
-	font-size: 19px;
-	font-weight: normal;
-}
-nav ul li a:hover {
-	border-bottom: 3px solid black;
-}
-nav ul li a.active {
-	color: #FFE000;
+	font-family: Open Sans;
+    	line-height: 1;
 }
 main {
 	position: relative;
 	top: 70px;
 	padding: 10px;
-}
-footer {
-	background: rgba(220, 220, 220, 0.5);
-	width: 100%;
-	position: fixed;
-	bottom: 0px;
-	left: 0px;
-	text-align: center;
-	font-size: 12px;
-	z-index: 999;
-}
-footer p {
-	font-weight: normal;
 }
 .products {
 	width: 100%;
@@ -83,4 +42,95 @@ footer p {
 .product button {
 	display: block;
 	margin: auto;
+}
+
+/********************************** Slider ********************************/
+.main-flexslider
+{
+    position: relative;
+
+    float: left;
+
+    width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+}
+.main-flexslider h1
+{
+    font-family: Lobster;
+    font-size: 100px;
+    font-weight: normal;
+
+    position: absolute;
+    top: 40%;
+
+    width: 100%;
+    margin: 0 auto;
+
+    text-align: center;
+
+    color: #111;
+}
+.main-flexslider img
+{
+    width: 100%;
+    height: auto;
+}
+
+/********************************** Products ********************************/
+.articles
+{
+    background: #5a423b;
+}
+.articles img,
+.members img
+{
+    width: 100%;
+
+    -webkit-border-top-left-radius: 3px;
+    -moz-border-radius-topleft: 3px;
+            border-top-left-radius: 3px;
+    -webkit-border-top-right-radius: 3px;
+    -moz-border-radius-topright: 3px;
+            border-top-right-radius: 3px;
+}
+.articles .text
+{
+    font-weight: bold -webkit-border-bottom-right-radius:3px;
+
+    float: left;
+
+    width: 100%;
+    margin-top: -2px;
+    margin-bottom: 30px;
+    padding: 30px 0 17px 0;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    -moz-border-radius-bottomright: 3px;
+    border-bottom-right-radius: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    -moz-border-radius-bottomleft: 3px;
+            border-bottom-left-radius: 3px;
+    background: #fff;
+}
+.articles p
+{
+    font-size: 21px;
+    font-weight: bold;
+
+    margin: 0!important;
+    padding: 10px 0;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #382925;
+    background: #fff;
+}
+.articles span
+{
+    font-size: 13px;
+    font-weight: bold!important;
 }
