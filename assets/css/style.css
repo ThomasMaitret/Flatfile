@@ -131,6 +131,10 @@ button {
     font-weight: bold!important;
     color: #4B77BE;
 }
+a:focus, a:hover {
+    color: #337ab7;
+    text-decoration: none;
+}
 
 @media (max-width: 1200px) {
   .articles img {
